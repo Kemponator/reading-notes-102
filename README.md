@@ -24,4 +24,4 @@ Explaining the scenario:
 - mkdir new-project: This command creates a new directory called 'new-projects' inside the 'projects' directory
 - touch new-project/newfile.md: This commnand creates a new file called 'newfile.md' inside the 'new-project' directory
 - cd ..: This command navigates up one level in the directory tree. So if you were in 'projects/new-projects', you would now be in 'projects'
-- ls projects/new-project: This command lists the contents of the 'new-project' directory, which is inside the 'projects' directory. Given the 
+- ls projects/new-project: This command lists the contents of the 'new-project' directory, which is inside the 'projects' directory. Given the previous commands, you should see 'newfile.md' listed as a result of this command
